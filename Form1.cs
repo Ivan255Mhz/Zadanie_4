@@ -41,7 +41,7 @@ namespace Zadanie_4
 
         private void ComboBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
-            
+
             string selectedKey = comboBox1.SelectedItem.ToString();
 
             double selectedPrice = fuelPrices[selectedKey];
@@ -79,5 +79,9 @@ namespace Zadanie_4
             }
         }
 
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
