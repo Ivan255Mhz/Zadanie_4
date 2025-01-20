@@ -83,5 +83,22 @@ namespace Zadanie_4
         {
 
         }
+
+        private void textBox5_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        //private double COF
+
+        private void label10_Click(object sender, EventArgs e)
+        {
+            //label10.Text=
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
